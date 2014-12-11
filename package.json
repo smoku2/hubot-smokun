@@ -1,5 +1,5 @@
 {
-  "name": "sumokun",
+  "name": "smokun",
   "version": "0.0.1",
   "private": true,
   "author": "kosk",
@@ -19,12 +19,12 @@
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.1.0",
     "hubot-youtube": "^0.1.2",
-		"hubot-sushiyuki": "0.0.8",
-		"hubot-thecat": "1.0.1",
-		"hubot-rss-reader": "0.5.4",
-		"hubot-tabelog": "0.0.4",
-		"hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git",
-		"hubot-misawa": "git://github.com/moqada/hubot-misawa.git"
+    "hubot-sushiyuki": "0.0.8",
+    "hubot-thecat": "1.0.1",
+    "hubot-rss-reader": "0.5.4",
+    "hubot-tabelog": "0.0.4",
+    "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git",
+    "hubot-misawa": "git://github.com/moqada/hubot-misawa.git"
   },
   "engines": {
     "node": "0.10.x"
