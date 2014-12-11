@@ -9,5 +9,11 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-sushiyuki",
+  "hubot-thecat",
+  "hubot-rss-reader",
+  "hubot-tabelog",
+  "hubot-lgtm",
+  "hubot-misawa"
 ]
