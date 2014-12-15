@@ -15,5 +15,8 @@
   "hubot-rss-reader",
   "hubot-tabelog",
   "hubot-lgtm",
-  "hubot-misawa"
+  "hubot-misawa",
+  "hubot-zip",
+  "hubot-date",
+  "hubot-bmi"
 ]
