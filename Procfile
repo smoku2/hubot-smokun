@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n smokun
+web: bin/hubot -a slack -n @smokun
